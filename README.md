@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @ragulramj
-- 👀 I’m interested in Machine learning and AI in internet products. I'm a machine learning Engineer with experience in Fintech, Renewables and Utilities and internet products.
-- 💞️ I’m looking to collaborate on Recommendation systems and chatbots
+Here to build useful references for Machine learning and cloud implementations. 
 - 📫 https://www.linkedin.com/in/ragulram/
 
 <!---
